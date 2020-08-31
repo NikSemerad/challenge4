@@ -225,6 +225,12 @@ button:active {
     padding-bottom: 40px;
     /* background-image: url(images/bg-intro-mobile.png); */
   }
+
+  .container {
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+
   .heading-div h1 {
     font-size: 35px;
     margin-top: 40px;
